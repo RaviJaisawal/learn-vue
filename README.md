@@ -1,5 +1,3 @@
-# dev-ops
-
 ## Project setup
 ```
 npm install
